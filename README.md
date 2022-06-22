@@ -1,2 +1,1 @@
-# Cyborg
-OPENCV
+# Ball tracking using OpenCV
